@@ -1,15 +1,17 @@
-How the Game Works:
+🐷 Pig Dice Game (Python)
+A simple, fun, console-based dice game for 2–4 players, inspired by the classic Pig game. Players take turns rolling a die, aiming to reach the winning score without hitting the unlucky 1!
 
-The game supports 2 to 4 players.
+🎮 Game Rules
+Supports 2 to 4 players.
 
-Each player takes turns rolling a die (1–6).
+On each turn, a player rolls a die as many times as they like.
 
-During a turn:
+Rolling a 1 ends the player's turn and resets their turn score to 0.
 
-If a player rolls anything but 1, they can choose to roll again or hold (end their turn and add the score).
+Rolling 2–6 adds that number to the turn score.
 
-If they roll a 1, their current turn score resets to 0, and their turn ends immediately.
+Players can choose to "hold" to bank their turn score into their total.
 
-Players accumulate their scores over multiple turns.
+First player to reach 100 points wins the game!
 
-The first player to reach or exceed 100 points wins the game.
+## 📸 Demo
