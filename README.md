@@ -1,6 +1,5 @@
-# PIG-GAME
-This is a simple console-based dice game called "Pig", designed for 2 to 4 players. It uses random dice rolls and basic player turn mechanics to simulate the classic "Pig" game rules.
- How the Game Works:
+How the Game Works:
+
 The game supports 2 to 4 players.
 
 Each player takes turns rolling a die (1–6).
