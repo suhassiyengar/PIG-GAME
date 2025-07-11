@@ -15,3 +15,4 @@ Players can choose to "hold" to bank their turn score into their total.
 First player to reach 100 points wins the game!
 
 ## 📸 Demo
+![Demo Screenshot](./Screenshot 2025-07-11 205930.png)
